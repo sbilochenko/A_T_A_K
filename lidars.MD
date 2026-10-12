@@ -18,8 +18,4 @@
 - [TF02-Pro](https://ai.benewake.com/en/resources/technical-documents/tf02-pro-datasheet/)
 - [TF02-Pro-W](https://ai.benewake.com/en/resources/technical-documents/tf02-pro-w-datasheet/)
 
-## Рекомендація
 
-Для конвою роботів варто почати з **TFmini-S**, якщо відстань невелика, або **TF02-Pro**, якщо потрібен більший запас дальності.
-
-Перед замовленням перевір наявність, актуальну ціну, комплектацію та захист корпусу. Для вуличного використання також потрібно перевірити стабільність вимірювання за дощу й туману.
