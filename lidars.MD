@@ -18,4 +18,5 @@
 - [TF02-Pro](https://ai.benewake.com/en/resources/technical-documents/tf02-pro-datasheet/)
 - [TF02-Pro-W](https://ai.benewake.com/en/resources/technical-documents/tf02-pro-w-datasheet/)
 
-
+## Коментарі та примітки
+Для Вуличних тестів: TFmini Plus витримує -20°C, але захист від сонця в нього такий самий, як у TFmini-S (70 000 lux). Під прямим сонцем (100 000 lux) дальність все одно буде падати. Якщо хочемо сенсор, який не боїться прямого сонця, дивіться в бік TFS20-L або TF02-Pro (у них 100 000 lux).
